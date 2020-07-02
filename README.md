@@ -65,7 +65,7 @@ ___
 ___
 **Basic usage**
 
-(hbnb) <command> <model>
+(hbnb) <"command_name"> <"model_name>
 ___
 **Credits**
 
