@@ -1,6 +1,6 @@
 # Welcome to the AirBnB clone project! (The Holberton B&B)
 ___
-
+![hbnb clone](https://user-images.githubusercontent.com/60371540/86303135-83f9cf80-bbd0-11ea-88d1-e19c4441c4b8.png)
 ___
 AirBnB clone project repository for Holberton School
 ___
@@ -9,7 +9,6 @@ ___
 FlowCHart
 ___
  **General Concepts**
-
 
     How to create a Python package
     How to create a command interpreter in Python using the cmd module
@@ -21,7 +20,6 @@ ___
     What is *args and how to use it
     What is **kwargs and how to use it
     How to handle named arguments in a function
-
 ___
  **Output**
 
@@ -32,7 +30,6 @@ Do you remember the Shell? It’s exactly the same but limited to a specific use
     Do operations on objects (count, compute stats, etc…)
     Update attributes of an object
     Destroy an object
-
 ___
 **Runing**
 
@@ -57,7 +54,6 @@ ___
 **Basic usage**
 
 (hbnb) <command> <model>
-
 ___
 **Credits**
 Console made by Norman Isaza <@isaza00> & Juan Camilo Acevedo <@acamilojuan> For **Holberton School**
