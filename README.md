@@ -6,6 +6,7 @@ ___
 ___
 ![Part of process](https://user-images.githubusercontent.com/60371540/86302417-3e3c0780-bbce-11ea-907c-9a5a2be9ef7f.png)
 ___
+![pld](https://user-images.githubusercontent.com/60371540/86388061-b56aad80-bc59-11ea-94e8-f070e0922462.png)
 ___
  **General Concepts**
 
